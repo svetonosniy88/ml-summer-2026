@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# PyCharm
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and models
+data/raw/
+data/processed/
+models/
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.onnx
+
+# Environment variables
+.env
+
+# OS
+.DS_Store
+Thumbs.db
