@@ -1,6 +1,6 @@
 import pytest
 
-from week01_python.src.metrics import mae, mean, mse
+from module_01_python_engineering.src.metrics import mae, mean, mse
 
 
 def test_mean():
